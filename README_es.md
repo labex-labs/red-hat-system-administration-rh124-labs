@@ -37,15 +37,15 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 |       03 | 📖 Obtener Ayuda en Red Hat Enterprise Linux             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Iniciar Laboratorio</a>                |
 |       04 | 📖 Editar Archivos de Texto en Red Hat Enterprise Lin... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Iniciar Laboratorio</a>         |
 |       05 | 📖 Gestionar Usuarios y Grupos en Red Hat Enterprise ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Iniciar Laboratorio</a> |
-|       06 | 📖 Control File Access in Red Hat Enterprise Linux       | Principiante | Próximamente                                                                                                                                    |
-|       07 | 📖 Monitor Processes in Red Hat Enterprise Linux         | Principiante | Próximamente                                                                                                                                    |
-|       08 | 📖 Control Services in Red Hat Enterprise Linux          | Principiante | Próximamente                                                                                                                                    |
-|       09 | 📖 Secure SSH in Red Hat Enterprise Linux                | Principiante | Próximamente                                                                                                                                    |
-|       10 | 📖 Analyze Logs in Red Hat Enterprise Linux              | Principiante | Próximamente                                                                                                                                    |
-|       11 | 📖 Configure Networking in Red Hat Enterprise Linux      | Principiante | Próximamente                                                                                                                                    |
-|       12 | 📖 Transfer Files in Red Hat Enterprise Linux            | Principiante | Próximamente                                                                                                                                    |
-|       13 | 📖 Install Software in Red Hat Enterprise Linux          | Principiante | Próximamente                                                                                                                                    |
-|       14 | 📖 Access File Systems in Red Hat Enterprise Linux       | Principiante | Próximamente                                                                                                                                    |
+|       06 | 📖 Control de Acceso a Archivos en Red Hat Enterprise... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Iniciar Laboratorio</a>     |
+|       07 | 📖 Monitorizar Procesos en Red Hat Enterprise Linux      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Iniciar Laboratorio</a>       |
+|       08 | 📖 Control de Servicios en Red Hat Enterprise Linux      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Iniciar Laboratorio</a>        |
+|       09 | 📖 SSH Seguro en Red Hat Enterprise Linux                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Iniciar Laboratorio</a>              |
+|       10 | 📖 Analizar Registros en Red Hat Enterprise Linux        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Iniciar Laboratorio</a>            |
+|       11 | 📖 Configurar la Red en Red Hat Enterprise Linux         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Iniciar Laboratorio</a>    |
+|       12 | 📖 Transferir Archivos en Red Hat Enterprise Linux       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Iniciar Laboratorio</a>          |
+|       13 | 📖 Instalar Software en Red Hat Enterprise Linux         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Iniciar Laboratorio</a>        |
+|       14 | 📖 Acceso a Sistemas de Archivos en Red Hat Enterpris... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Iniciar Laboratorio</a>     |
 
 ## Más
 
