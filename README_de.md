@@ -1,14 +1,14 @@
-# Red Hat System Administration (RH124) Praxis-Labs
+# Red Hat Systemadministration (RH124) Zertifizierungslabore
 
 ## Sprachen
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Red Hat System Administration (RH124) Praxis-Labs](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=de)](https://labex.io/de/courses/red-hat-system-administration-rh124-labs)
+[![Red Hat Systemadministration (RH124) Zertifizierungslabore](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=de)](https://labex.io/de/courses/red-hat-system-administration-rh124-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/de/courses/red-hat-system-administration-rh124-labs)
 
-In diesem Kurs erlernen Sie die Grundlagen der Red Hat Enterprise Linux Systemverwaltung anhand praktischer Übungen.  Dazu gehören grundlegende Befehle, Dateiverwaltung, Benutzer- und Gruppenverwaltung, Berechtigungen, Prozesse, Dienste, Netzwerk und mehr.
+In diesem Kurs lernen Sie die Grundlagen der Red Hat Enterprise Linux Systemadministration durch praktische Übungen, einschließlich grundlegender Befehle, Dateiverwaltung, Benutzer- und Gruppenverwaltung, Berechtigungen, Prozesse, Dienste, Netzwerke und mehr. Eine wesentliche Grundlage für den Erfolg bei Red Hat Zertifizierungen.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
@@ -24,7 +24,7 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
