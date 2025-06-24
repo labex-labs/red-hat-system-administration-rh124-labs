@@ -1,14 +1,14 @@
-# 红帽系统管理 (RH124) 实操实验室
+# 红帽系统管理 (RH124) 认证实验
 
 ## 支持语言
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![红帽系统管理 (RH124) 实操实验室](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=zh)](https://labex.io/zh/courses/red-hat-system-administration-rh124-labs)
+[![红帽系统管理 (RH124) 认证实验](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=zh)](https://labex.io/zh/courses/red-hat-system-administration-rh124-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/red-hat-system-administration-rh124-labs)
 
-本课程通过实操实验室，学习红帽企业 Linux 系统管理的基础知识，包括基本命令、文件管理、用户和组管理、权限、进程、服务、网络等。
+在本课程中，通过动手实验学习红帽企业 Linux 系统管理的基础知识，包括基本命令、文件管理、用户和组管理、权限、进程、服务、网络等。是红帽认证成功的必备基础。
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
@@ -24,7 +24,7 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 浏览器内的交互式在线环境，具有自动化的逐步检查。
 - 基于技能树的结构化内容组织系统。
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
-- 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
+- 基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
