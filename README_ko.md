@@ -1,14 +1,14 @@
-# 레드햇 시스템 관리 (RH124) 실습
+# Red Hat 시스템 관리 (RH124) 인증 실습
 
 ## 언어
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![레드햇 시스템 관리 (RH124) 실습](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=ko)](https://labex.io/ko/courses/red-hat-system-administration-rh124-labs)
+[![Red Hat 시스템 관리 (RH124) 인증 실습](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=ko)](https://labex.io/ko/courses/red-hat-system-administration-rh124-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/red-hat-system-administration-rh124-labs)
 
-이 과정에서는 실습을 통해 레드햇 엔터프라이즈 리눅스 시스템 관리의 기본 원리를 배우게 됩니다. 기본 명령어, 파일 관리, 사용자 및 그룹 관리, 권한, 프로세스, 서비스, 네트워킹 등을 다룹니다.
+이 과정에서는 기본 명령어, 파일 관리, 사용자 및 그룹 관리, 권한, 프로세스, 서비스, 네트워킹 등을 포함한 Red Hat Enterprise Linux 시스템 관리의 기초를 실습을 통해 배웁니다. Red Hat 인증 성공을 위한 필수적인 기초를 다질 수 있습니다.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
@@ -24,7 +24,7 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
 - 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
 - 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- ChatGPT 를 기반으로 구축된 AI 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
+- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
