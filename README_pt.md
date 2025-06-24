@@ -1,14 +1,14 @@
-# Laboratórios Práticos de Administração de Sistemas Red Hat (RH124)
+# Laboratórios de Certificação em Administração de Sistemas Red Hat (RH124)
 
 ## Idiomas
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Laboratórios Práticos de Administração de Sistemas Red Hat (RH124)](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=pt)](https://labex.io/pt/courses/red-hat-system-administration-rh124-labs)
+[![Laboratórios de Certificação em Administração de Sistemas Red Hat (RH124)](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=pt)](https://labex.io/pt/courses/red-hat-system-administration-rh124-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/red-hat-system-administration-rh124-labs)
 
-Neste curso, aprenda os fundamentos da administração de sistemas Red Hat Enterprise Linux por meio de laboratórios práticos, incluindo comandos básicos, gerenciamento de arquivos, administração de usuários e grupos, permissões, processos, serviços, redes e muito mais.
+Neste curso, aprenda os fundamentos da administração de sistemas Red Hat Enterprise Linux através de laboratórios práticos, incluindo comandos básicos, gerenciamento de arquivos, administração de usuários e grupos, permissões, processos, serviços, redes e muito mais. Uma base essencial para o sucesso na certificação Red Hat.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
@@ -24,7 +24,7 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
