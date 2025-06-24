@@ -1,14 +1,14 @@
-# Red Hat システム管理 (RH124) 実践ラボ
+# Red Hat System Administration (RH124) 認定ラボ
 
 ## 言語
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Red Hat システム管理 (RH124) 実践ラボ](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=ja)](https://labex.io/ja/courses/red-hat-system-administration-rh124-labs)
+[![Red Hat System Administration (RH124) 認定ラボ](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png?lang=ja)](https://labex.io/ja/courses/red-hat-system-administration-rh124-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/red-hat-system-administration-rh124-labs)
 
-このコースでは、Red Hat Enterprise Linux システム管理の基本を、実践的なラボを通して学びます。基本コマンド、ファイル管理、ユーザー・グループ管理、パーミッション、プロセス、サービス、ネットワークなど、幅広いトピックを網羅しています。
+このコースでは、基本的なコマンド、ファイル管理、ユーザーおよびグループ管理、権限、プロセス、サービス、ネットワーキングなど、Red Hat Enterprise Linux システム管理の基本をハンズオンラボで習得します。Red Hat 認定取得のための必須の基礎となります。
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
@@ -24,7 +24,7 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
