@@ -1,14 +1,14 @@
-# Red Hat System Administration (RH124) Hands-on Labs
+# Red Hat System Administration (RH124) Certification Labs
 
 ## Languages
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Red Hat System Administration (RH124) Hands-on Labs](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png)](https://labex.io/courses/red-hat-system-administration-rh124-labs)
+[![Red Hat System Administration (RH124) Certification Labs](https://cover-creator.labex.io/red-hat-system-administration-rh124-labs.png)](https://labex.io/courses/red-hat-system-administration-rh124-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/red-hat-system-administration-rh124-labs)
 
-In this course, learn the fundamentals of Red Hat Enterprise Linux system administration by hands-on labs, including basic commands, file management, user and group administration, permissions, processes, services, networking, and more.
+In this course, learn the fundamentals of Red Hat Enterprise Linux system administration by hands-on labs, including basic commands, file management, user and group administration, permissions, processes, services, networking, and more. Essential foundation for Red Hat certification success.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
@@ -24,7 +24,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
 
 Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
