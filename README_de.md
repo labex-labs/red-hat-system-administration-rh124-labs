@@ -11,8 +11,29 @@
 In diesem Kurs lernen Sie die Grundlagen der Red Hat Enterprise Linux Systemadministration durch praktische Übungen, einschließlich grundlegender Befehle, Dateiverwaltung, Benutzer- und Gruppenverwaltung, Berechtigungen, Prozesse, Dienste, Netzwerke und mehr. Eine wesentliche Grundlage für den Erfolg bei Red Hat Zertifizierungen.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
+![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## Übungen
+
+|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                                     |
+|---------|-------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Zugriff auf die Kommandozeile in Red Hat Enterpris... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>Labor Starten</a>     |
+|      02 | 📖 🟢 Dateien in Red Hat Enterprise Linux verwalten         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>Labor Starten</a>            |
+|      03 | 📖 🟢 Hilfe in Red Hat Enterprise Linux erhalten            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Labor Starten</a>                |
+|      04 | 📖 🟢 Textdateien in Red Hat Enterprise Linux bearbeiten    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Labor Starten</a>         |
+|      05 | 📖 🟢 Benutzer und Gruppen in Red Hat Enterprise Linux v... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Labor Starten</a> |
+|      06 | 📖 🟢 Dateizugriff in Red Hat Enterprise Linux steuern      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Labor Starten</a>     |
+|      07 | 📖 🟢 Prozesse in Red Hat Enterprise Linux überwachen       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Labor Starten</a>       |
+|      08 | 📖 🔵 Verwaltung von Diensten in Red Hat Enterprise Linu... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Labor Starten</a>        |
+|      09 | 📖 🔵 Sichere SSH-Verbindungen in Red Hat Enterprise Lin... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Labor Starten</a>              |
+|      10 | 📖 🔵 Protokolle in Red Hat Enterprise Linux analysieren    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Labor Starten</a>            |
+|      11 | 📖 🔵 Netzwerk konfigurieren in Red Hat Enterprise Linux    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Labor Starten</a>    |
+|      12 | 📖 🔵 Dateien in Red Hat Enterprise Linux übertragen        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Labor Starten</a>          |
+|      13 | 📖 🔵 Software installieren in Red Hat Enterprise Linux     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Labor Starten</a>        |
+|      14 | 📖 🔵 Zugriff auf Dateisysteme in Red Hat Enterprise Lin... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Labor Starten</a>     |
 
 ## Umgebung
 
@@ -27,25 +48,6 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                     |
-|---------|----------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Zugriff auf die Kommandozeile in Red Hat Enterpris... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>Labor Starten</a>     |
-|      02 | 📖 Dateien in Red Hat Enterprise Linux verwalten         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>Labor Starten</a>            |
-|      03 | 📖 Hilfe in Red Hat Enterprise Linux erhalten            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Labor Starten</a>                |
-|      04 | 📖 Textdateien in Red Hat Enterprise Linux bearbeiten    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Labor Starten</a>         |
-|      05 | 📖 Benutzer und Gruppen in Red Hat Enterprise Linux v... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Labor Starten</a> |
-|      06 | 📖 Dateizugriff in Red Hat Enterprise Linux steuern      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Labor Starten</a>     |
-|      07 | 📖 Prozesse in Red Hat Enterprise Linux überwachen       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Labor Starten</a>       |
-|      08 | 📖 Verwaltung von Diensten in Red Hat Enterprise Linu... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Labor Starten</a>        |
-|      09 | 📖 Sichere SSH-Verbindungen in Red Hat Enterprise Lin... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Labor Starten</a>              |
-|      10 | 📖 Protokolle in Red Hat Enterprise Linux analysieren    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Labor Starten</a>            |
-|      11 | 📖 Netzwerk konfigurieren in Red Hat Enterprise Linux    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Labor Starten</a>    |
-|      12 | 📖 Dateien in Red Hat Enterprise Linux übertragen        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Labor Starten</a>          |
-|      13 | 📖 Software installieren in Red Hat Enterprise Linux     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Labor Starten</a>        |
-|      14 | 📖 Zugriff auf Dateisysteme in Red Hat Enterprise Lin... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Labor Starten</a>     |
 
 ## Mehr
 
