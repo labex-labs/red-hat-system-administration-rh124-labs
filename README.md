@@ -11,8 +11,29 @@
 In this course, learn the fundamentals of Red Hat Enterprise Linux system administration by hands-on labs, including basic commands, file management, user and group administration, permissions, processes, services, networking, and more. Essential foundation for Red Hat certification success.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
+![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## Exercises
+
+|   Index | Name                                                        | Difficulty   | Practice                                                                                                                           |
+|---------|-------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Access Command Line in Red Hat Enterprise Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>Start Lab</a>     |
+|      02 | 📖 🟢 Manage Files in Red Hat Enterprise Linux              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>Start Lab</a>            |
+|      03 | 📖 🟢 Get Help in Red Hat Enterprise Linux                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Start Lab</a>                |
+|      04 | 📖 🟢 Edit Text Files in Red Hat Enterprise Linux           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Start Lab</a>         |
+|      05 | 📖 🟢 Manage Users and Groups in Red Hat Enterprise Linu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Start Lab</a> |
+|      06 | 📖 🟢 Control File Access in Red Hat Enterprise Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Start Lab</a>     |
+|      07 | 📖 🟢 Monitor Processes in Red Hat Enterprise Linux         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Start Lab</a>       |
+|      08 | 📖 🔵 Control Services in Red Hat Enterprise Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Start Lab</a>        |
+|      09 | 📖 🔵 Secure SSH in Red Hat Enterprise Linux                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Start Lab</a>              |
+|      10 | 📖 🔵 Analyze Logs in Red Hat Enterprise Linux              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Start Lab</a>            |
+|      11 | 📖 🔵 Configure Networking in Red Hat Enterprise Linux      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Start Lab</a>    |
+|      12 | 📖 🔵 Transfer Files in Red Hat Enterprise Linux            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Start Lab</a>          |
+|      13 | 📖 🔵 Install Software in Red Hat Enterprise Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Start Lab</a>        |
+|      14 | 📖 🔵 Access File Systems in Red Hat Enterprise Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Start Lab</a>     |
 
 ## Environment
 
@@ -27,25 +48,6 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 - The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
 
 Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercises
-
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                           |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Access Command Line in Red Hat Enterprise Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>Start Lab</a>     |
-|      02 | 📖 Manage Files in Red Hat Enterprise Linux              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>Start Lab</a>            |
-|      03 | 📖 Get Help in Red Hat Enterprise Linux                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Start Lab</a>                |
-|      04 | 📖 Edit Text Files in Red Hat Enterprise Linux           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Start Lab</a>         |
-|      05 | 📖 Manage Users and Groups in Red Hat Enterprise Linu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Start Lab</a> |
-|      06 | 📖 Control File Access in Red Hat Enterprise Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Start Lab</a>     |
-|      07 | 📖 Monitor Processes in Red Hat Enterprise Linux         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Start Lab</a>       |
-|      08 | 📖 Control Services in Red Hat Enterprise Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Start Lab</a>        |
-|      09 | 📖 Secure SSH in Red Hat Enterprise Linux                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Start Lab</a>              |
-|      10 | 📖 Analyze Logs in Red Hat Enterprise Linux              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Start Lab</a>            |
-|      11 | 📖 Configure Networking in Red Hat Enterprise Linux      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Start Lab</a>    |
-|      12 | 📖 Transfer Files in Red Hat Enterprise Linux            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Start Lab</a>          |
-|      13 | 📖 Install Software in Red Hat Enterprise Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Start Lab</a>        |
-|      14 | 📖 Access File Systems in Red Hat Enterprise Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Start Lab</a>     |
 
 ## More
 
