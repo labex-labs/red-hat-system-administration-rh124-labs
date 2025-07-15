@@ -11,8 +11,29 @@
 В этом курсе вы освоите основы системного администрирования Red Hat Enterprise Linux с помощью практических лабораторных работ, включая базовые команды, управление файлами, администрирование пользователей и групп, права доступа, процессы, службы, сетевые настройки и многое другое. Это необходимая основа для успешной сертификации Red Hat.
 
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
+![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## Упражнения
+
+|   Индекс | Название                                                    | Сложность   | Практика                                                                                                                                       |
+|----------|-------------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Доступ к командной строке в Red Hat Enterprise Lin... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>Начать Лабораторию</a>     |
+|       02 | 📖 🟢 Управление файлами в Red Hat Enterprise Linux         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>Начать Лабораторию</a>            |
+|       03 | 📖 🟢 Получение помощи в Red Hat Enterprise Linux           | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Начать Лабораторию</a>                |
+|       04 | 📖 🟢 Редактирование текстовых файлов в Red Hat Enterpri... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Начать Лабораторию</a>         |
+|       05 | 📖 🟢 Управление пользователями и группами в Red Hat Ent... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Начать Лабораторию</a> |
+|       06 | 📖 🟢 Управление доступом к файлам в Red Hat Enterprise ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Начать Лабораторию</a>     |
+|       07 | 📖 🟢 Мониторинг процессов в Red Hat Enterprise Linux       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Начать Лабораторию</a>       |
+|       08 | 📖 🔵 Управление службами в Red Hat Enterprise Linux        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Начать Лабораторию</a>        |
+|       09 | 📖 🔵 Безопасное SSH в Red Hat Enterprise Linux             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Начать Лабораторию</a>              |
+|       10 | 📖 🔵 Анализ журналов в Red Hat Enterprise Linux            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Начать Лабораторию</a>            |
+|       11 | 📖 🔵 Настройка сети в Red Hat Enterprise Linux             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Начать Лабораторию</a>    |
+|       12 | 📖 🔵 Передача файлов в Red Hat Enterprise Linux            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Начать Лабораторию</a>          |
+|       13 | 📖 🔵 Установка программного обеспечения в Red Hat Enter... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Начать Лабораторию</a>        |
+|       14 | 📖 🔵 Доступ к файловым системам в Red Hat Enterprise Li... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Начать Лабораторию</a>     |
 
 ## Среда
 
@@ -27,25 +48,6 @@ LabEx - это интерактивная практическая обучаю�
 - Ассистент обучения Labby, построенный на последних моделях ИИ, обеспечивающий разговорный опыт обучения.
 
 Узнать больше о [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Упражнения
-
-|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                                       |
-|----------|----------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Доступ к командной строке в Red Hat Enterprise Lin... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>Начать Лабораторию</a>     |
-|       02 | 📖 Управление файлами в Red Hat Enterprise Linux         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>Начать Лабораторию</a>            |
-|       03 | 📖 Получение помощи в Red Hat Enterprise Linux           | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>Начать Лабораторию</a>                |
-|       04 | 📖 Редактирование текстовых файлов в Red Hat Enterpri... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>Начать Лабораторию</a>         |
-|       05 | 📖 Управление пользователями и группами в Red Hat Ent... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>Начать Лабораторию</a> |
-|       06 | 📖 Управление доступом к файлам в Red Hat Enterprise ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>Начать Лабораторию</a>     |
-|       07 | 📖 Мониторинг процессов в Red Hat Enterprise Linux       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>Начать Лабораторию</a>       |
-|       08 | 📖 Управление службами в Red Hat Enterprise Linux        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>Начать Лабораторию</a>        |
-|       09 | 📖 Безопасное SSH в Red Hat Enterprise Linux             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>Начать Лабораторию</a>              |
-|       10 | 📖 Анализ журналов в Red Hat Enterprise Linux            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>Начать Лабораторию</a>            |
-|       11 | 📖 Настройка сети в Red Hat Enterprise Linux             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>Начать Лабораторию</a>    |
-|       12 | 📖 Передача файлов в Red Hat Enterprise Linux            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>Начать Лабораторию</a>          |
-|       13 | 📖 Установка программного обеспечения в Red Hat Enter... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>Начать Лабораторию</a>        |
-|       14 | 📖 Доступ к файловым системам в Red Hat Enterprise Li... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>Начать Лабораторию</a>     |
 
 ## Больше
 
