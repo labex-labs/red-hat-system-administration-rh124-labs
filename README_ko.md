@@ -18,26 +18,26 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                      | 난이도   | 연습                                                                                                                                  |
-|----------|-----------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 Red Hat Enterprise Linux 에서 명령줄 액세스         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>실습 시작</a>     |
-|       02 | 📖 🆓 Red Hat Enterprise Linux 파일 관리                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>실습 시작</a>            |
-|       03 | 📖 🆓 Red Hat Enterprise Linux 에서 도움 받기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>실습 시작</a>                |
-|       04 | 📖 🆓 Red Hat Enterprise Linux 에서 텍스트 파일 편집      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>실습 시작</a>         |
-|       05 | 📖 🆓 Red Hat Enterprise Linux 에서 사용자 및 그룹 관리   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>실습 시작</a> |
-|       06 | 📖 🆓 Red Hat Enterprise Linux 에서 파일 액세스 제어      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>실습 시작</a>     |
-|       07 | 📖 🆓 Red Hat Enterprise Linux 에서 프로세스 모니터링하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>실습 시작</a>       |
-|       08 | 📖  Red Hat Enterprise Linux 서비스 제어                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>실습 시작</a>        |
-|       09 | 📖  Red Hat Enterprise Linux 에서 SSH 보안 설정           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>실습 시작</a>              |
-|       10 | 📖  Red Hat Enterprise Linux 에서 로그 분석하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>실습 시작</a>            |
-|       11 | 📖  Red Hat Enterprise Linux 에서 네트워킹 구성하기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>실습 시작</a>    |
-|       12 | 📖  레드햇 엔터프라이즈 리눅스에서 파일 전송하기          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>실습 시작</a>          |
-|       13 | 📖  Red Hat Enterprise Linux 에서 소프트웨어 설치         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>실습 시작</a>        |
-|       14 | 📖  Red Hat Enterprise Linux 에서 파일 시스템 접근하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>실습 시작</a>     |
+|   인덱스 | 이름                                                      | 난이도   | 연습                                                                                                                                                                             |
+|----------|-----------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 Red Hat Enterprise Linux 에서 명령줄 액세스         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-access-command-line-in-red-hat-enterprise-linux-588454?course=red-hat-system-administration-rh124-labs'>실습 시작</a>     |
+|       02 | 🧩 🆓 Red Hat Enterprise Linux 파일 관리                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-manage-files-in-red-hat-enterprise-linux-588463?course=red-hat-system-administration-rh124-labs'>실습 시작</a>            |
+|       03 | 🧩 🆓 Red Hat Enterprise Linux 에서 도움 받기             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-get-help-in-red-hat-enterprise-linux-588461?course=red-hat-system-administration-rh124-labs'>실습 시작</a>                |
+|       04 | 🧩 🆓 Red Hat Enterprise Linux 에서 텍스트 파일 편집      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-edit-text-files-in-red-hat-enterprise-linux-588460?course=red-hat-system-administration-rh124-labs'>실습 시작</a>         |
+|       05 | 🧩 🆓 Red Hat Enterprise Linux 에서 사용자 및 그룹 관리   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464?course=red-hat-system-administration-rh124-labs'>실습 시작</a> |
+|       06 | 🧩 🆓 Red Hat Enterprise Linux 에서 파일 액세스 제어      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-control-file-access-in-red-hat-enterprise-linux-588458?course=red-hat-system-administration-rh124-labs'>실습 시작</a>     |
+|       07 | 🧩 🆓 Red Hat Enterprise Linux 에서 프로세스 모니터링하기 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-monitor-processes-in-red-hat-enterprise-linux-588465?course=red-hat-system-administration-rh124-labs'>실습 시작</a>       |
+|       08 | 🧩  Red Hat Enterprise Linux 서비스 제어                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-control-services-in-red-hat-enterprise-linux-588459?course=red-hat-system-administration-rh124-labs'>실습 시작</a>        |
+|       09 | 🧩  Red Hat Enterprise Linux 에서 SSH 보안 설정           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-secure-ssh-in-red-hat-enterprise-linux-588466?course=red-hat-system-administration-rh124-labs'>실습 시작</a>              |
+|       10 | 🧩  Red Hat Enterprise Linux 에서 로그 분석하기           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-analyze-logs-in-red-hat-enterprise-linux-588456?course=red-hat-system-administration-rh124-labs'>실습 시작</a>            |
+|       11 | 🧩  Red Hat Enterprise Linux 에서 네트워킹 구성하기       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-configure-networking-in-red-hat-enterprise-linux-588457?course=red-hat-system-administration-rh124-labs'>실습 시작</a>    |
+|       12 | 🧩  레드햇 엔터프라이즈 리눅스에서 파일 전송하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-transfer-files-in-red-hat-enterprise-linux-588467?course=red-hat-system-administration-rh124-labs'>실습 시작</a>          |
+|       13 | 🧩  Red Hat Enterprise Linux 에서 소프트웨어 설치         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-install-software-in-red-hat-enterprise-linux-588462?course=red-hat-system-administration-rh124-labs'>실습 시작</a>        |
+|       14 | 🧩  Red Hat Enterprise Linux 에서 파일 시스템 접근하기    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-access-file-systems-in-red-hat-enterprise-linux-588455?course=red-hat-system-administration-rh124-labs'>실습 시작</a>     |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
