@@ -18,26 +18,26 @@
 
 ## 练习
 
-|   序号 | 名称                                                 | 难度   | 练习                                                                                                                                 |
-|--------|------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🆓 在 Red Hat Enterprise Linux 中访问命令行       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>开始实验</a>     |
-|     02 | 📖 🆓 在 Red Hat Enterprise Linux 中管理文件         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>开始实验</a>            |
-|     03 | 📖 🆓 在 Red Hat Enterprise Linux 中获取帮助         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>开始实验</a>                |
-|     04 | 📖 🆓 在 Red Hat Enterprise Linux 中编辑文本文件     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>开始实验</a>         |
-|     05 | 📖 🆓 在 Red Hat Enterprise Linux 中管理用户和组     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>开始实验</a> |
-|     06 | 📖 🆓 在 Red Hat Enterprise Linux 中控制文件访问权限 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>开始实验</a>     |
-|     07 | 📖 🆓 在 Red Hat Enterprise Linux 中监控进程         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>开始实验</a>       |
-|     08 | 📖  在 Red Hat Enterprise Linux 中控制服务           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>开始实验</a>        |
-|     09 | 📖  Red Hat Enterprise Linux 中安全 SSH 配置         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>开始实验</a>              |
-|     10 | 📖  在 Red Hat Enterprise Linux 中分析日志           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>开始实验</a>            |
-|     11 | 📖  在 Red Hat Enterprise Linux 中配置网络           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>开始实验</a>    |
-|     12 | 📖  在 Red Hat Enterprise Linux 中传输文件           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>开始实验</a>          |
-|     13 | 📖  在 Red Hat Enterprise Linux 中安装软件           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>开始实验</a>        |
-|     14 | 📖  在 Red Hat Enterprise Linux 中访问文件系统       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>开始实验</a>     |
+|   序号 | 名称                                                 | 难度   | 练习                                                                                                                                                                            |
+|--------|------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 🧩 🆓 在 Red Hat Enterprise Linux 中访问命令行       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-access-command-line-in-red-hat-enterprise-linux-588454?course=red-hat-system-administration-rh124-labs'>开始实验</a>     |
+|     02 | 🧩 🆓 在 Red Hat Enterprise Linux 中管理文件         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-manage-files-in-red-hat-enterprise-linux-588463?course=red-hat-system-administration-rh124-labs'>开始实验</a>            |
+|     03 | 🧩 🆓 在 Red Hat Enterprise Linux 中获取帮助         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-get-help-in-red-hat-enterprise-linux-588461?course=red-hat-system-administration-rh124-labs'>开始实验</a>                |
+|     04 | 🧩 🆓 在 Red Hat Enterprise Linux 中编辑文本文件     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-edit-text-files-in-red-hat-enterprise-linux-588460?course=red-hat-system-administration-rh124-labs'>开始实验</a>         |
+|     05 | 🧩 🆓 在 Red Hat Enterprise Linux 中管理用户和组     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464?course=red-hat-system-administration-rh124-labs'>开始实验</a> |
+|     06 | 🧩 🆓 在 Red Hat Enterprise Linux 中控制文件访问权限 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-control-file-access-in-red-hat-enterprise-linux-588458?course=red-hat-system-administration-rh124-labs'>开始实验</a>     |
+|     07 | 🧩 🆓 在 Red Hat Enterprise Linux 中监控进程         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-monitor-processes-in-red-hat-enterprise-linux-588465?course=red-hat-system-administration-rh124-labs'>开始实验</a>       |
+|     08 | 🧩  在 Red Hat Enterprise Linux 中控制服务           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-control-services-in-red-hat-enterprise-linux-588459?course=red-hat-system-administration-rh124-labs'>开始实验</a>        |
+|     09 | 🧩  Red Hat Enterprise Linux 中安全 SSH 配置         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-secure-ssh-in-red-hat-enterprise-linux-588466?course=red-hat-system-administration-rh124-labs'>开始实验</a>              |
+|     10 | 🧩  在 Red Hat Enterprise Linux 中分析日志           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-analyze-logs-in-red-hat-enterprise-linux-588456?course=red-hat-system-administration-rh124-labs'>开始实验</a>            |
+|     11 | 🧩  在 Red Hat Enterprise Linux 中配置网络           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-configure-networking-in-red-hat-enterprise-linux-588457?course=red-hat-system-administration-rh124-labs'>开始实验</a>    |
+|     12 | 🧩  在 Red Hat Enterprise Linux 中传输文件           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-transfer-files-in-red-hat-enterprise-linux-588467?course=red-hat-system-administration-rh124-labs'>开始实验</a>          |
+|     13 | 🧩  在 Red Hat Enterprise Linux 中安装软件           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-install-software-in-red-hat-enterprise-linux-588462?course=red-hat-system-administration-rh124-labs'>开始实验</a>        |
+|     14 | 🧩  在 Red Hat Enterprise Linux 中访问文件系统       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-access-file-systems-in-red-hat-enterprise-linux-588455?course=red-hat-system-administration-rh124-labs'>开始实验</a>     |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
