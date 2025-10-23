@@ -18,26 +18,26 @@
 
 ## 演習
 
-|   インデックス | 名前                                                          | 難易度   | 練習                                                                                                                                   |
-|----------------|---------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🆓 Red Hat Enterprise Linux コマンドラインへのアクセス     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-access-command-line-in-red-hat-enterprise-linux-588454'>ラボを開始</a>     |
-|             02 | 📖 🆓 Red Hat Enterprise Linux でファイルを管理する           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-manage-files-in-red-hat-enterprise-linux-588463'>ラボを開始</a>            |
-|             03 | 📖 🆓 Red Hat Enterprise Linux でのヘルプ取得                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-get-help-in-red-hat-enterprise-linux-588461'>ラボを開始</a>                |
-|             04 | 📖 🆓 Red Hat Enterprise Linux でのテキストファイル編集       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-edit-text-files-in-red-hat-enterprise-linux-588460'>ラボを開始</a>         |
-|             05 | 📖 🆓 Red Hat Enterprise Linux でのユーザーとグループの管理   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464'>ラボを開始</a> |
-|             06 | 📖 🆓 Red Hat Enterprise Linux でファイルアクセスを制御する   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-control-file-access-in-red-hat-enterprise-linux-588458'>ラボを開始</a>     |
-|             07 | 📖 🆓 Red Hat Enterprise Linux でのプロセス監視               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-monitor-processes-in-red-hat-enterprise-linux-588465'>ラボを開始</a>       |
-|             08 | 📖  Red Hat Enterprise Linux でサービスを制御する             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-control-services-in-red-hat-enterprise-linux-588459'>ラボを開始</a>        |
-|             09 | 📖  Red Hat Enterprise Linux での安全な SSH 設定              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-secure-ssh-in-red-hat-enterprise-linux-588466'>ラボを開始</a>              |
-|             10 | 📖  Red Hat Enterprise Linux でのログ分析                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-analyze-logs-in-red-hat-enterprise-linux-588456'>ラボを開始</a>            |
-|             11 | 📖  Red Hat Enterprise Linux でのネットワーク設定             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-configure-networking-in-red-hat-enterprise-linux-588457'>ラボを開始</a>    |
-|             12 | 📖  Red Hat Enterprise Linux でファイル転送を学ぶ             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-transfer-files-in-red-hat-enterprise-linux-588467'>ラボを開始</a>          |
-|             13 | 📖  Red Hat Enterprise Linux でソフトウェアをインストールする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-install-software-in-red-hat-enterprise-linux-588462'>ラボを開始</a>        |
-|             14 | 📖  Red Hat Enterprise Linux でのファイルシステムへのアクセス | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-access-file-systems-in-red-hat-enterprise-linux-588455'>ラボを開始</a>     |
+|   インデックス | 名前                                                          | 難易度   | 練習                                                                                                                                                                              |
+|----------------|---------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 🧩 🆓 Red Hat Enterprise Linux コマンドラインへのアクセス     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-access-command-line-in-red-hat-enterprise-linux-588454?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>     |
+|             02 | 🧩 🆓 Red Hat Enterprise Linux でファイルを管理する           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-manage-files-in-red-hat-enterprise-linux-588463?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>            |
+|             03 | 🧩 🆓 Red Hat Enterprise Linux でのヘルプ取得                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-get-help-in-red-hat-enterprise-linux-588461?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>                |
+|             04 | 🧩 🆓 Red Hat Enterprise Linux でのテキストファイル編集       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-edit-text-files-in-red-hat-enterprise-linux-588460?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>         |
+|             05 | 🧩 🆓 Red Hat Enterprise Linux でのユーザーとグループの管理   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-manage-users-and-groups-in-red-hat-enterprise-linux-588464?course=red-hat-system-administration-rh124-labs'>ラボを開始</a> |
+|             06 | 🧩 🆓 Red Hat Enterprise Linux でファイルアクセスを制御する   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-control-file-access-in-red-hat-enterprise-linux-588458?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>     |
+|             07 | 🧩 🆓 Red Hat Enterprise Linux でのプロセス監視               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-monitor-processes-in-red-hat-enterprise-linux-588465?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>       |
+|             08 | 🧩  Red Hat Enterprise Linux でサービスを制御する             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-control-services-in-red-hat-enterprise-linux-588459?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>        |
+|             09 | 🧩  Red Hat Enterprise Linux での安全な SSH 設定              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-secure-ssh-in-red-hat-enterprise-linux-588466?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>              |
+|             10 | 🧩  Red Hat Enterprise Linux でのログ分析                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-analyze-logs-in-red-hat-enterprise-linux-588456?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>            |
+|             11 | 🧩  Red Hat Enterprise Linux でのネットワーク設定             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-configure-networking-in-red-hat-enterprise-linux-588457?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>    |
+|             12 | 🧩  Red Hat Enterprise Linux でファイル転送を学ぶ             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-transfer-files-in-red-hat-enterprise-linux-588467?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>          |
+|             13 | 🧩  Red Hat Enterprise Linux でソフトウェアをインストールする | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-install-software-in-red-hat-enterprise-linux-588462?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>        |
+|             14 | 🧩  Red Hat Enterprise Linux でのファイルシステムへのアクセス | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-access-file-systems-in-red-hat-enterprise-linux-588455?course=red-hat-system-administration-rh124-labs'>ラボを開始</a>     |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
